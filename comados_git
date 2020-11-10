@@ -1,0 +1,6 @@
+#pasos para crear un repositorio en githab cin comandos Github
+
+##git remote add origin https://github.com/tatianamartinz/TRABAJO_PARQUESOFT_CGIT.git
+
+>>git init
+//sierve para crear un repositorio dentro de la carpeta raiz donde tenemos el proyecto
